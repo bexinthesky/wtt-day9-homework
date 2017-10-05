@@ -5,3 +5,7 @@
 // then, make it so that if a user clicks on a box a second time, change the border radius of the box
 
 // BONUS: Make it so only one box can be your new color at a time
+var boxes = document.getElementsByClassName('boxes');
+boxes.addEventListener('click', function(e){
+
+});
