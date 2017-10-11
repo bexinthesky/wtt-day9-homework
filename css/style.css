@@ -3,4 +3,13 @@
   width: 100px;
   background-color: #ccc;
   margin: 10px;
+  border-radius: 25px;
+}
+
+.border-change {
+  border-radius: 10px;
+}
+
+.colorChange {
+  background-color: #000000;
 }
